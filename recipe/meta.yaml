@@ -1,6 +1,6 @@
 {% set name = "pseudonetcdf" %}
-{% set version = "3.0.0" %}
-{% set sha256 = "eb1ee1fa8f16f4a976d0851084b1a353a47f8ece41ab0519c95358dd53d27942" %}
+{% set version = "3.0.1" %}
+{% set sha256 = "55cac93d235681ae8903407d50a768a07e9b9d5cc29882095e7a5da18e5aeb1f" %}
 
 package:
   name: {{ name|lower }}
